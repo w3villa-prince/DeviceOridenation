@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A96C03A4-D576-B822-B66E-DD15EAA9F177}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DeviceOrientationDetection.cs">
+    <Files>
+      <File FileName="Assets/DeviceOrientationDetection.cs" Line="54" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="aa302c69-8976-49cb-9b79-d500eb9eed48" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
